@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
