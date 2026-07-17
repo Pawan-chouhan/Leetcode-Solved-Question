@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
