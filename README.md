@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
