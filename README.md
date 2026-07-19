@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
+| [1089-duplicate-zeros](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1089-duplicate-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
