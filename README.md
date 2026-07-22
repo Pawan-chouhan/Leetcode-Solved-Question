@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,4 +73,12 @@
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
