@@ -23,6 +23,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
