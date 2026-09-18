@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0066-plus-one) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
