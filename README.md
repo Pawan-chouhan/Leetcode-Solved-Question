@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0042-trapping-rain-water) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
