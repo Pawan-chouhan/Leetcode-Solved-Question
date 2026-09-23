@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
@@ -40,6 +41,7 @@
 | [0088-merge-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,12 +80,14 @@
 | [0035-search-insert-position](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
@@ -125,4 +129,12 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
