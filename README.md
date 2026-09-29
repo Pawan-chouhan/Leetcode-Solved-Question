@@ -34,6 +34,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
