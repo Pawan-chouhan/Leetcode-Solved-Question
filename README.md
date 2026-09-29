@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0941-valid-mountain-array) |
@@ -59,6 +60,7 @@
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +144,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
