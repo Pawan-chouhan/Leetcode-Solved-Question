@@ -23,6 +23,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
+| [0875-koko-eating-bananas](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0941-valid-mountain-array) |
@@ -81,6 +82,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0875-koko-eating-bananas) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
