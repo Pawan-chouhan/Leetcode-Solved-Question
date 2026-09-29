@@ -1,6 +1,6 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int s =1;
+        int s =0;
         int e= 0;
         int ans = -1;
         for(int ele:piles){
