@@ -22,17 +22,19 @@ class Solution {
     static boolean isValid(int []bloomday ,int day,int k,int m){
         int count = 0;
         int ans =0;
-        for(int ele :bloomday){
+        for (int ele :bloomday){
             if(ele<=day){
                 count ++;
-            }
-            else {
-                ans +=count/k;
-                count=0;
-
+                if (count==k){
+                    ans ++;
+                    count =0;
+                }}
+                else count =0;
+            
+            if(ans >=m){
+                return true;
             }
 
         }
-        ans +=count/k;
-    return ans >=m;
+    return false ;   
 }}
