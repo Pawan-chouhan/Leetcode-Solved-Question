@@ -25,10 +25,7 @@ class Solution {
             
         
         }
-        if(cursum>threshold){
-            return false;
         
-        }
-        return true;
+        return cursum<=threshold;
     }
 }
