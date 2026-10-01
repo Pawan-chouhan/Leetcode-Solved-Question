@@ -1,7 +1,7 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int s =1;
-        int e =0;
+        int e =1000000;
         int ans =0;
         for(int ele :nums){
             e = Math.max(e,ele);
