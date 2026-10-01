@@ -34,6 +34,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
