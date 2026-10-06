@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +85,7 @@
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
@@ -96,6 +99,7 @@
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -117,6 +121,7 @@
 | [0088-merge-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
