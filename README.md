@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +124,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -157,6 +161,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
 |  |
@@ -186,4 +191,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
