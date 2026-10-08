@@ -95,6 +95,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
@@ -133,6 +134,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0922-sort-array-by-parity-ii) |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0451-sort-characters-by-frequency) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -167,6 +170,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0451-sort-characters-by-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
 |  |
@@ -204,10 +208,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
