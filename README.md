@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0409-longest-palindrome) |
@@ -126,6 +129,7 @@
 | [0088-merge-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -162,6 +166,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
 |  |
@@ -195,4 +200,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
