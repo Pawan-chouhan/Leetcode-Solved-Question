@@ -52,6 +52,7 @@
 | [0042-trapping-rain-water](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0202-happy-number) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
@@ -234,6 +237,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0328-odd-even-linked-list) |
