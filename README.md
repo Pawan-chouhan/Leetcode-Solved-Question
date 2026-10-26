@@ -39,6 +39,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/2206-divide-array-into-equal-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -87,6 +88,7 @@
 | [0268-missing-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0877-stone-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -249,4 +252,12 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0707-design-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
