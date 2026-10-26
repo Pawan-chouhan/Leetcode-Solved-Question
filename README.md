@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0875-koko-eating-bananas) |
@@ -178,11 +179,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pawan-chouhan/Leetcode-Solved-Question/tree/master/0503-next-greater-element-ii) |
 ## Counting
 |  |
 | ------- |
